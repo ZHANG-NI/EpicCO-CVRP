@@ -1,6 +1,6 @@
-# AlphaCO: Capacitated Vehicle Routing
+# EpicCO: Capacitated Vehicle Routing
 
-The solver that [AlphaCO](https://github.com/ZHANG-NI/AlphaCO) produced for the capacitated vehicle routing problem, starting from HGS-CVRP (T. Vidal, Computers & Operations Research, 2022; https://github.com/vidalt/HGS-CVRP).
+The solver that [EpicCO](https://github.com/ZHANG-NI/EpicCO) produced for the capacitated vehicle routing problem, starting from HGS-CVRP (T. Vidal, Computers & Operations Research, 2022; https://github.com/vidalt/HGS-CVRP).
 
 ## Run
 
